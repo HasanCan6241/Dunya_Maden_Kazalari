@@ -1,4 +1,4 @@
-Dünya Maden Kazaları Veri Görselleştirme Projesi
+# Dünya Maden Kazaları Veri Görselleştirme Projesi
 Bu proje, dünya genelinde yaşanmış maden kazalarının verilerini çekerek, nedenlerini, yaralı sayılarını ve ölüm sayılarını analiz edip dünya haritası üzerinde görselleştirmeyi amaçlar.
 
 ## Veri Çekme İşlemi
@@ -24,3 +24,4 @@ Proje dosyalarını indirin veya klonlayın.
 Gerekli bağımlılıkları yükleyin.
 ana_script.py dosyasını çalıştırarak haritayı oluşturun.
 ## Uygulama Arayüzü
+![Arayüz](dünya_maden.png)
